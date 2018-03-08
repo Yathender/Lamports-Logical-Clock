@@ -5,7 +5,7 @@ Lamports Logical Clock implementation in java using socket programming.
 javac *.java
 
 #run each process
-Process [processId] [totalNumberOfProcesses]
+java Process [processId] [totalNumberOfProcesses]
 
 #output sample
 ![alt text](output.png)
